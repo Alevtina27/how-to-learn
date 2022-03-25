@@ -8,7 +8,6 @@
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', 'Arial', sans-serif;
 }
-
 .header {
   height: 100vh;
   min-height: 600px;
@@ -20,20 +19,6 @@
   align-items: center;
   justify-content: flex-end;
   overflow: hidden;
-}
-
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
 }
 .logo {
   height: 32px;
@@ -258,7 +243,9 @@
 }
 .table__cell_theme_dark {
   width: 200px;
-  padding: 80px auto 80px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
 }
 .table__heading_theme_dark {
   line-height: 1.15;
@@ -300,10 +287,6 @@
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
-}
-.logo {
-  width: 183px;
-  height: 35px;
 }
 .footer__author {
   line-height: 25px;
