@@ -1,0 +1,10 @@
+@import url(../blocks/cards/cards.css);
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  width: 920px;
+  margin: auto;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding: 0;
+}

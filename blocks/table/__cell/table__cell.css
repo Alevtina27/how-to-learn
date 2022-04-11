@@ -1,0 +1,7 @@
+@import url(../blocks/table/__cell/table__cell.css);
+.table__cell {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  margin-top: 60px;
+}

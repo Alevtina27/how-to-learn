@@ -1,0 +1,5 @@
+@import url(../blocks/footer/__column/footer__column.css);
+.footer__column {
+  display: flex;
+  flex-direction: column;
+}

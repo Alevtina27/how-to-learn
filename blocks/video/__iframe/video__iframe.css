@@ -1,0 +1,16 @@
+@import url(../blocks/video/__iframe/video__iframe.css);
+.video__iframe{
+  margin-right: 20px;
+  width: 515px;
+  height: 316px;
+  border: 0;
+}
+.video__iframe:first-of-type{
+  left: 0;
+  bottom: 0;
+}
+.video__iframe:last-child{
+  margin-right: 0;
+  right: 0;
+  bottom: 0;
+}

@@ -1,0 +1,9 @@
+@import url(../blocks/footer/__column-links/footer__column-links.css);
+.footer__column-links {
+  display: block;
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}

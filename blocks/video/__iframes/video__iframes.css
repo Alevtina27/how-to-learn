@@ -1,0 +1,11 @@
+@import url(../blocks/video/__iframes/video__iframes.css);
+.video__iframes{
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+  align-content: space-between;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin: auto;
+  transform: translateY(20%);
+}

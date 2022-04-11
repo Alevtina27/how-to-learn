@@ -1,0 +1,11 @@
+@import url(../blocks/footer/__column-link/footer__column-link.css);
+.footer__column-link {
+  padding-left: 0;
+  text-decoration-line: none;
+  color: #f2f2f2;
+  padding-inline-start: 0;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
+}

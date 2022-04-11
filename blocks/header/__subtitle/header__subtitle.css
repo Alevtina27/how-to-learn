@@ -1,0 +1,13 @@
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+.header__subtitle {
+  position: absolute;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  bottom: 30px;
+  left: 64px;
+  max-width: 388px;
+  line-height: 25px;
+  font-weight: normal;
+  font-size: 18px;
+  z-index: 2;
+}

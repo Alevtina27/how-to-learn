@@ -1,0 +1,10 @@
+@import url(../blocks/khan/__container/khan__container.css);
+.khan__container{
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  padding-top: 105px;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin: auto;
+}
