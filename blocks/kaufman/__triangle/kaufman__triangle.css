@@ -3,9 +3,8 @@
   height: 877px;
   top: 0;
   right: -210px;
-  background-image: url(/Git/how-to-learn/images/kaufman-triangle.svg);
+  background-image: url(../../../images/kaufman-triangle.svg);
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
-  animation: rotation 20s linear infinite;
 }
