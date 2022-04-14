@@ -8,5 +8,6 @@
   margin-block-start: 0;
   margin-block-end: 0;
   transform: translateY(20%);
+  list-style-type: none;
 }
 
